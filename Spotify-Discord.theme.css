@@ -35,7 +35,7 @@
 	--popout-radius: 7px;
 	--popout-radius-small: 3px; /*	-	*/
 
-	--input-color: #e0e0e0;
+	--input-color: #000;
 	--input-text-color: #333;
-	--input-placeholder-color: #444;
+	--input-placeholder-color: #e0e0e0;
 }
